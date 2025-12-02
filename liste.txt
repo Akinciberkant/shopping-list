@@ -4,6 +4,6 @@ Salami
 Joghurt
 Kaffee
 Bohnen
-Milch
+Milch 
 Cola
-
+Gurke
