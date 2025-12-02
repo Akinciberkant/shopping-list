@@ -2,3 +2,5 @@ Müsli
 Joghurt
 Kaffee
 Bohnen
+Milch
+
