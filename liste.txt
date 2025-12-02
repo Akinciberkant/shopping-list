@@ -7,3 +7,4 @@ Bohnen
 Milch 
 Cola
 Gurke
+Sprite
