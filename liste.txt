@@ -8,3 +8,4 @@ Milch
 Cola
 Gurke
 Sprite
+Fanta
